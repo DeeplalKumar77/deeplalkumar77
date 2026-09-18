@@ -37,6 +37,12 @@ public class DeeplalKumar {
 }
 
 ```
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgresql,redis,html,css,js,git,github,postman,docker,aws,idea,vscode&perline=8" />
+</p>
+
 
 ## ⚡ Technologies
 
