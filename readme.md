@@ -36,6 +36,8 @@ public class DeeplalKumar {
     };
 }
 
+```
+
 ## ⚡ Technologies
 
 <p align="center">
