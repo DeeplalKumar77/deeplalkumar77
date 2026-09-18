@@ -1,25 +1,46 @@
-# Hi 👋, I'm Deeplal Kumar
+<div align="center">
 
-🎓 B.Tech Computer Science & Engineering Student
+# 👋 Hi, I'm Deeplal Kumar
 
-💻 Java | Spring Boot | MySQL
+### 💻 Java Backend Developer | Spring Boot | REST APIs
 
-🚀 Aspiring Backend Developer
+<img src="https://komarev.com/ghpvc/?username=DeeplalKumar77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-## 🛠️ Skills
+</div>
 
-- Java
-- Spring Boot
-- MySQL
-- REST API
-- Git & GitHub
+---
 
-## 📌 Projects
+## 🧠 `whoami`
 
-- Student Management System
-- Video Library Management System
+```java
+public class DeeplalKumar {
 
-## 📫 Connect with me
+    String name = "Deeplal Kumar";
+    String role = "Backend Developer";
+    String education = "B.Tech - Computer Science & Engineering";
 
-- LinkedIn
-- GitHub
+    String[] focus = {
+        "Java",
+        "Spring Boot",
+        "Backend Development",
+        "REST APIs",
+        "Database Management"
+    };
+
+    String[] currentlyLearning = {
+        "Advanced Java",
+        "Spring Boot",
+        "Spring Data JPA",
+        "Docker",
+        "AWS"
+    };
+
+    String[] interests = {
+        "Backend Engineering",
+        "Software Development",
+        "Problem Solving",
+        "Building Real-World Projects"
+    };
+
+    String motto = "Learn • Build • Improve • Repeat";
+}
