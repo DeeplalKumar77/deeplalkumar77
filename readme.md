@@ -1,6 +1,13 @@
 <p align="center">
   <img src="./assets/profile-banner.png" alt="Deeplal Kumar - Backend Engineer" width="100%">
 </p>
+## ⚡ Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgresql,redis&perline=6" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,postman,docker,aws,idea,vscode&perline=10" />
+</p>
 
 # 👋 Hi, I'm Deeplal Kumar
 
